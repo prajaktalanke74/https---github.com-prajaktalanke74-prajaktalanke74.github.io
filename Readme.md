@@ -1,36 +1,36 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/prajaktalanke/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/banner.png" alt="My banner">
   </a>
 </p>
 
-<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer">Jatin</a> 👋</h3>
+<h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/prajaktalanke/" target="_blank" rel="noreferrer">Prajakta</a> 👋</h3>
 
 <h2 align="center">I'm a Software Development Engineer in Test (SDET) 💻, Avid Photographer 📸, and Passionate Gardener 🌱</h2>
 
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  <a href="hhttps://www.linkedin.com/in/prajaktalanke/">
+    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/linkedin.svg" alt="Prajakta Lanke | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+  <a href="https://instagram.com/tech_with_Prajakta">
+    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/instagram.svg" alt="Prajakta | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/whatsapp.png" alt="Prajakta | Whatsapp" width="21px"/>
   </a>
 </p>
   
 ## 🥇 Certifications
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
-   <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/ocpjp.png" alt="Jatin | AWS-SA" width="100 px"/>
-    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/safe.png" alt="Jatin | AWS-SA" width="100 px"/>
-     <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/csm.webp" alt="Jatin | AWS-SA" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/ISTQB.png" alt="Prajakta | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/aws-cp.png" alt="Prajakta | AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/aws-dev.png" alt="Prajakta | AWS-DEV" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/aws-sa.png" alt="Prajakta | AWS-SA" width="100 px"/>
+   <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/ocpjp.png" alt="Prajakta | AWS-SA" width="100 px"/>
+    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/safe.png" alt="Prajakta | AWS-SA" width="100 px"/>
+     <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/csm.webp" alt="Prajakta | AWS-SA" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -41,7 +41,7 @@
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
 - Postman Newman Automated Test 
 <p align="center">    
-<img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/postmanproject.jpg" alt="Jatin | Whatsapp" width="500px"/> </p>
+<img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/postmanproject.jpg" alt="Prajakta | Whatsapp" width="500px"/> </p>
 
 ## 🌱 I'm currently learning
 
@@ -94,22 +94,22 @@ in test coverage</b>
 
 ## 📈 GitHub Stats 
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=prajaktalanke74)](https://github.com/prajaktalanke74)
+[![Prajakta's github stats](https://github-readme-stats.vercel.app/api?username=prajaktalanke74)](https://github.com/prajaktalanke74)
 
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:Prajaktavsharma@gmail.com">Prajaktavsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatinshharma//">
-    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  <a href="https://www.linkedin.com/in/prajaktalanke/">
+    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/linkedin.svg" alt="Prajakta Lanke | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/tech_with_jatin">
-    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+  <a href="https://instagram.com/tech_with_Prajakta">
+    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/instagram.svg" alt="Prajakta | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">
-    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+    <img src="https://raw.githubusercontent.com/prajaktalanke74/prajaktalanke74.github.io/main/images/whatsapp.png" alt="Prajakta | Whatsapp" width="21px"/>
   </a>
 </p>
   
