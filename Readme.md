@@ -99,7 +99,7 @@ in test coverage</b>
 
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:Prajaktavsharma@gmail.com">Prajaktavsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:prajaktalanke7@gmail.com">Prajaktavsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prajaktalanke/">
